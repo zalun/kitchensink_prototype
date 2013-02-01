@@ -2,7 +2,7 @@
   "version": "0.1",
   "name": "KitchenSink Prototype",
   "description": "Prototype of the KitchenSink application to list all APIs",
-  "launch_path": "/index.html",
+  "launch_path": "/kitchensink_prototype/index.html",
   "icons": {
     "16": "/img/icons/mortar-16.png",
     "48": "/img/icons/mortar-48.png",
@@ -10,7 +10,7 @@
   },
   "developer": {
     "name": "Piotr Zalewa",
-    "url": "http://mozilla.github.com/kitchensink_prototype/"
+    "url": "http://zalun.github.com/kitchensink_prototype/"
   },
   "installs_allowed_from": ["*"],
   "default_locale": "en"
